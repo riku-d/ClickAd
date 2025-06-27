@@ -1,0 +1,8 @@
+streamlit
+numpy
+joblib
+openai-whisper
+keybert
+pytrends
+pandas
+scikit-learn

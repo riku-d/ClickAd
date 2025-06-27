@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic
+streamlit
+numpy
+scikit-learn
+joblib
+speechrecognition
+moviepy
+pyaudio
+nltk
+transformers
+torch
+requests
+python-dotenv
